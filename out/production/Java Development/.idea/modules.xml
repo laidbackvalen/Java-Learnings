@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Break and Continue/Break and Continue.iml" filepath="$PROJECT_DIR$/Break and Continue/Break and Continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER 5 LOOPs/CHAPTER 5 LOOPs.iml" filepath="$PROJECT_DIR$/CHAPTER 5 LOOPs/CHAPTER 5 LOOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cha4 Conditionals/Cha4 Conditionals.iml" filepath="$PROJECT_DIR$/Cha4 Conditionals/Cha4 Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 10 Inheritance/Chapter 10 Inheritance.iml" filepath="$PROJECT_DIR$/Chapter 10 Inheritance/Chapter 10 Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 10 Practice Set/Chapter 10 Practice Set.iml" filepath="$PROJECT_DIR$/Chapter 10 Practice Set/Chapter 10 Practice Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 11 Abstract classes and interfaces/Chapter 11 Abstract classes and interfaces.iml" filepath="$PROJECT_DIR$/Chapter 11 Abstract classes and interfaces/Chapter 11 Abstract classes and interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 11 Practice set/Chapter 11 Practice set.iml" filepath="$PROJECT_DIR$/Chapter 11 Practice set/Chapter 11 Practice set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 12 using  Intellij/Chapter 12 using  Intellij.iml" filepath="$PROJECT_DIR$/Chapter 12 using  Intellij/Chapter 12 using  Intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 13 Multi_Threading/Chapter 13 Multi_Threading.iml" filepath="$PROJECT_DIR$/Chapter 13 Multi_Threading/Chapter 13 Multi_Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 13 Practice Set/Chapter 13 Practice Set.iml" filepath="$PROJECT_DIR$/Chapter 13 Practice Set/Chapter 13 Practice Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 14 Errors And Exception/Chapter 14 Errors And Exception.iml" filepath="$PROJECT_DIR$/Chapter 14 Errors And Exception/Chapter 14 Errors And Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Practice set/Chapter 2 Practice set.iml" filepath="$PROJECT_DIR$/Chapter 2 Practice set/Chapter 2 Practice set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 6 Array Practice Set/Chapter 6 Array Practice Set.iml" filepath="$PROJECT_DIR$/Chapter 6 Array Practice Set/Chapter 6 Array Practice Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 6 Arrays/Chapter 6 Arrays.iml" filepath="$PROJECT_DIR$/Chapter 6 Arrays/Chapter 6 Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 7 Methods/Chapter 7 Methods.iml" filepath="$PROJECT_DIR$/Chapter 7 Methods/Chapter 7 Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 8 Introduction to OOPs/Chapter 8 Introduction to OOPs.iml" filepath="$PROJECT_DIR$/Chapter 8 Introduction to OOPs/Chapter 8 Introduction to OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/Chapter12.iml" filepath="$PROJECT_DIR$/Chapter12/Chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter9 Access Modifier And Constructor/Chapter9 Access Modifier And Constructor.iml" filepath="$PROJECT_DIR$/Chapter9 Access Modifier And Constructor/Chapter9 Access Modifier And Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date_and_time/Date.iml" filepath="$PROJECT_DIR$/date_and_time/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game - Guess The Number/Game - Guess The Number.iml" filepath="$PROJECT_DIR$/Game - Guess The Number/Game - Guess The Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Development.iml" filepath="$PROJECT_DIR$/.idea/Java Development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library Management System/Library Management System.iml" filepath="$PROJECT_DIR$/Library Management System/Library Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3 String Methods/String Methods.iml" filepath="$PROJECT_DIR$/Chapter 3 String Methods/String Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taking Input From User/Taking Input From User.iml" filepath="$PROJECT_DIR$/Taking Input From User/Taking Input From User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Access Modifier Chapter 12/access_modifier_chapter12.iml" filepath="$PROJECT_DIR$/Access Modifier Chapter 12/access_modifier_chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter 1 Prac set/chapter 1 Prac set.iml" filepath="$PROJECT_DIR$/chapter 1 Prac set/chapter 1 Prac set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter literals/chapter literals.iml" filepath="$PROJECT_DIR$/chapter literals/chapter literals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafirst/firstjava/firstjava.iml" filepath="$PROJECT_DIR$/javafirst/firstjava/firstjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java docs/java docs.iml" filepath="$PROJECT_DIR$/java docs/java docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafirst/java first sum/java first sum.iml" filepath="$PROJECT_DIR$/javafirst/java first sum/java first sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Docs/javadocs.iml" filepath="$PROJECT_DIR$/Java Docs/javadocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuch_bhi/kuch_bhi.iml" filepath="$PROJECT_DIR$/kuch_bhi/kuch_bhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/precedence And Associativity of operators/precedence And Associativity of operators.iml" filepath="$PROJECT_DIR$/precedence And Associativity of operators/precedence And Associativity of operators.iml" />
+    </modules>
+  </component>
+</project>
